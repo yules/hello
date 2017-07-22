@@ -1,0 +1,12 @@
+{
+  "name": "hello",
+  "description": "Template",
+  "version": "0.0.0",
+  "author": {
+    "name": "Yuval Leshem",
+    "email": "yuval.leshem@gmail.com"
+  },
+  "dependencies": {
+    "express": ""
+  }
+}
